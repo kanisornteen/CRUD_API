@@ -1,3 +1,0 @@
-1.ติดตั้ง NodeJS
-2.ติดตั้ง package ในโปรเจกต์ (npm init)
-3.ติดตั้ง dependencies ที่สำคัญ (npm i mysql express body-parser)
